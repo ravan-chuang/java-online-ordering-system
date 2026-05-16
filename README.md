@@ -53,6 +53,13 @@ The project separates responsibilities into multiple classes:
 - `OverAmountDiscount`: applies discounts based on order amount
 - `PercentageDiscount`: applies percentage-based discounts
 
+## How to Run
+
+```bash
+javac *.java
+java Main
+```
+
 ## What I Learned
 
 Through this project, I practiced Java OOP design, class separation, file reading and writing, command-line interaction, and basic business logic implementation.
